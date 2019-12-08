@@ -11,5 +11,4 @@ number , output the median of array.
 Example: Given sequence is 5 , 7 , 1 , 6 , 2 , 3
 Explanation: [ 5 ] median is 5 [ 5 , 7] median is (5+7)/2 [ 5 7 1 ] sorted array is
 [1 5 7 ] median is 5 [5 7 1 6] sorted array is [1 5 6 7] median is (5 + 6)/2.
-Crux of Problem: It has to be solely implemented using AVL Tree otherwise 0
-marks will be awarded.
+Crux of Problem: It has to be solely implemented using AVL Tree.
